@@ -1,0 +1,42 @@
+body {
+  background-color: #a0c09e;
+  overflow: hidden;
+}
+
+.background-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar {
+background-color: #4cb27b;
+font-size: x-large;
+font-weight: bold;
+color: #C2E0C9;
+}
+
+.card {
+background-color: #3cae70;
+font-size: x-large;
+font-weight: bold;
+color: #C2E0C9;
+}
+
+.card-header {
+background-color: #57b983;
+}
+
+.separator {
+font-size: x-large;
+margin: 0 10px; /* Adjusts the space on both sides of the separator */
+font-weight: bold; /* Makes the separator bold */
+color: #568266; /* Sets the separator color */
+}
+
+.dropdown-menu {
+  background-color: #C2E0C9;
+}
